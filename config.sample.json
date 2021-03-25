@@ -1,6 +1,7 @@
 {
     "token": "",
     "dbConnectionString": "nedb://nedb-data",
+    "useUnifiedTopology": true,
     "serviceName": "RSS Fetcher",
     "requiredPermissions": 84992,
     "askTimeoutMs": 30000,
